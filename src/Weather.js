@@ -83,19 +83,7 @@ export default function Weather() {
             <div className="col-4" id="forecast"></div>
           </div>
         </section>
-        <footer>
-  <small>
-    <a href="https://github.com/Su401/weather-app.git">
-      Open-source code
-    </a>
-    by 
-    <a href="https://www.linkedin.com/in/susana-silva-/">
-      Susana Silva
-    </a>
-  </small>
-</footer>
       </div>
-      
-    </div>
+  </div>
   );
 }
